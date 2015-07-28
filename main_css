@@ -1,0 +1,300 @@
+/**********************************
+GENERAL
+***********************************/
+
+* {
+  margin: 0;
+  padding 0;
+  box-sizing: border-box;
+}
+
+
+
+a {
+  text-decoration: none;
+ 
+}
+
+img {
+  max-width: 100%;
+}
+
+
+#wrapper {
+  margin: 5%;
+}
+
+
+
+.line {
+  border-top: 2px solid #dfe2e6;
+  padding-top: 20px;
+}
+
+
+
+/**********************************
+HEADER
+***********************************/
+
+
+.main-header {
+  background-size: 100%;
+  background-image: url('../img/header.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+header {
+  padding: 10% ;
+  height: 100%;
+  margin-bottom: 5px;
+}
+
+
+/**********************************
+NAVIGATION
+***********************************/
+nav a {
+  border-right: 1px solid #000;
+}
+
+.full-width {
+  padding: 1;
+  margin: 0;
+  text-align: center;
+}
+
+nav {
+  text-align: left;
+  padding: 10px 0;
+  margin: 20px 0 0;
+  font-family: 'Quicksand', serif;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav a { 
+  padding: 0 25px;
+  
+/*   style | size | family */
+/*  font: 2em 'Amatic SC', sans-serif;*/
+}
+
+
+
+/**********************************
+FOOTER
+***********************************/
+
+footer {
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+  color: #000;
+  margin: 5%;
+}
+
+.social-icon {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}
+
+/**********************************
+PAGE: Portfolio
+***********************************/
+
+#right, #left, #middle-right, #middle-left {
+  padding: 20% 10%;
+  margin-bottom: 5px;
+}
+
+.brand {
+  background-size: 100%;
+  background-image: url(../img/brand.jpg);
+  background-repeat: no-repeat;
+}
+
+.brand:hover {
+  background-size: 100%;
+  background-image: url(../img/brand-blur.jpg);
+  background-repeat: no-repeat;
+}
+
+
+.fashion {
+  background-size: 100%;
+  background-image: url(../img/fashion-styling.jpg);
+  background-repeat: no-repeat;
+}
+
+.fashion:hover {
+  background-size: 100%;
+  background-image: url(../img/fashion-blur.jpg);
+  background-repeat: no-repeat;
+}
+
+.wedding {
+  background-size: 100%;
+  background-image: url(../img/wedding.jpg);
+  background-repeat: no-repeat;
+}
+
+.wedding:hover {
+  background-size: 100%;
+  background-image: url(../img/wedding-blur.jpg);
+  background-repeat: no-repeat;
+}
+
+.visual {
+  background-size: 100%;
+  background-image: url(../img/visual.jpg);
+  background-repeat: no-repeat;
+}
+
+.visual:hover {
+  background-size: 100%;
+  background-image: url(../img/visual-blur.jpg);
+  background-repeat: no-repeat;
+}
+
+.direction {
+  background-size: 100%;
+  background-image: url(../img/direction.jpg);
+  background-repeat: no-repeat;
+}
+
+.direction:hover {
+  background-size: 100%;
+  background-image: url(../img/direction-blur.jpg);
+  background-repeat: no-repeat;
+}
+
+.food {
+  background-size: 100%;
+  background-image: url(../img/food.jpg);
+  background-repeat: no-repeat;
+}
+
+.food:hover {
+  background-size: 100%;
+  background-image: url(../img/food-blur.jpg);
+  background-repeat: no-repeat;
+}
+/*
+            
+            
+            <a href="img/visual.jpg"><div id="middle-left" class="visual"></div></a>
+            
+            <a href="img/direction.jpg"><div id="left" class="direction"></div></a>
+            
+            <a href="img/food.jpg"><div id="right" class="food"></div></a>
+*/
+
+
+
+#portfolioImg ul {
+  list-style: none;
+  padding: 0;
+}
+
+#portfolioImg li {
+  padding: 0;
+  margin-bottom: 1%;
+}
+
+
+#left {
+  float: left;
+  width: 66%;
+}
+
+#right {
+  float: right;
+  width: 33%;
+}
+
+#middle-left {
+  float: left;
+  width: 33%;
+}
+
+#middle-right {
+  float: right;
+  width: 66%;
+}
+
+/**********************************
+PAGE: ABOUT
+***********************************/
+
+
+/**********************************
+PAGE: Blog
+***********************************/
+
+
+/**********************************
+PAGE: CONTACT
+***********************************/
+
+
+/**********************************
+COLORS
+***********************************/
+/* site body text color */
+body {
+  background-color: #fff;
+  color: #000;
+}
+
+/* black header */
+nav {
+  background: #fff;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+
+/* logo text */
+h1, h2 {
+  color: #000;
+}
+
+/* links */
+a {
+  color: #000;
+}
+
+/* nav link */
+nav a, nav a:visited {
+  color: grey;
+}
+
+/* selected nav link */
+nav a.selected, nav a:hover {
+  color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
