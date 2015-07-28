@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href='http://fonts.googleapis.com/css?family=Quicksand:300' rel='stylesheet' type='text/css'>
+    <meta charset="utf-8">
+    <title>Adrian Minotti | Designer</title>
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+    <header class="main-header">
+      </header>
+     <nav class="full-width">
+          <ul class="nav-font">
+            <li><a href="index.html" class="selected">Portfolio</a></li>
+            <li><a href="http://gritandglittergal.com/about/" target="blank">About</a></li>
+            <li><a href="http://gritandglittergal.com" target="_blank">Blog</a></li>
+            <li><a href="mailto:adrianminotti@aol.com">Contact</a></li>
+            <li><a href="//www.linkedin.com/profile/view?id=168856970&authType=NAME_SEARCH&authToken=9A6X&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1437109651065%2Ctas%3Aadrian" target="_blank">Linkedin</a></li>
+            
+          </ul>
+        </nav>
+     <div id="wrapper">
+       
+        <section id="portfolioImg">
+          <ul>  
+            
+            <a href="img/brand.jpg"><div id="left" class="brand"></div></a>
+            
+                
+            <a href="img/fashion-styling.jpg"><div id="right" class="fashion"></div></a>
+             
+            <a href="img/wedding.jpg"><div id="middle-right" class="wedding"></div></a>
+            
+            <a href="img/visual.jpg"><div id="middle-left" class="visual"></div></a>
+            
+            <a href="img/direction.jpg"><div id="left" class="direction"></div></a>
+            
+            <a href="img/food.jpg"><div id="right" class="food"></div></a>
+          
+          </ul>
+        </section>
+
+       
+   </div>
+      <footer id="footer" class="line">
+        <a href="http://facebook.com/adrianminotti" target="blank"><img src="img/facebook.png" alt="Facebook Logo" class="social-icon"></a>
+        <a href="http://twitter.com/adrianminotti" target="blank"><img src="img/twitter.png" alt="Twitter Logo" class="social-icon"></a>
+       <a href="http://instagram.com/adrianminotti" target="blank"><img src="img/instagram.png" alt="Instagram Logo" class="social-icon"></a>
+       <p>&copy; 2015 Adrian Minotti.</p>
+      </footer>
+   
+  </body>
+</html>
