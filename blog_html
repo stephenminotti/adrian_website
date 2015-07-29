@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href='http://fonts.googleapis.com/css?family=EB+Garamond|Amatic+SC:400,700' rel='stylesheet' type='text/css'>
+    <meta charset="utf-8">
+    <title>Adrian Minotti | Designer</title>
+    <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Changa+One|Open+Sans:400italic,700italic,400,700,800' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+    <div>
+      
+        <a href="index.html" id="logo" class="main-header">
+        </a>
+       
+      
+    </div>
+    <div id=logo>
+    <h1 class="name-header">Adrian Minotti</h1>
+    </div>
+     <nav class="full-width">
+          <ul>
+            <li><a href="about.html">About</a></li>
+            <li><a href="index.html" class="selected">Portfolio</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="hireme.html">Hire Me</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+    <div id="wrapper">
+      
+      <section id="secondary-gallery">
+        <ul>  
+        <li>
+            
+              <img src="img/portfolio-8.jpg" alt="">
+              <p>Turtles are classified as amniotes, along with other reptiles, birds, and mammals. Like other amniotes, turtles breathe air and do not lay eggs underwater, although many species live in or around water.</p>
+            </a>
+          </li>
+          <li class="line">
+            
+              <img src="img/portfolio-1.jpg" alt="">
+              <p>The word chelonian is popular among veterinarians, scientists, and conservationists working with these animals as a catch-all name for any member of the superorder Chelonia, which includes all turtles living and extinct, as well as their immediate ancestors.[citation needed] Chelonia is based on the Greek word χελώνη chelone "tortoise", "turtle" (another relevant word is χέλυς chelys "tortoise"),[8][9] also denoting armor or interlocking shields;[10] testudines on the other hand, is based on the Latin word testudo "tortoise".[11] "Turtle" may either refer to the order as a whole, or to particular turtles that make up a form taxon that is not monophyletic.</p>
+            
+          </li>
+          <li class="line">
+            
+              <img src="img/portfolio-2.jpg" alt="">
+              <p>The meaning of the word turtle differs from region to region. In North America, all chelonians are commonly called turtles, including terrapins and tortoises.[12][13] In Great Britain, the word turtle is used for sea-dwelling species, but not for tortoises.
+
+The term tortoise usually refers to any land-dwelling, non-swimming chelonian.[13] Most land-dwelling chelonians are in the Testudinidae family, only one of the 14 extant turtle families.[14]
+
+Terrapin is used to describe several species of small, edible, hard-shell turtles, typically those found in brackish waters, and is an Algonquian word for turtle.[12][15]
+
+Some languages do not have this problem, as all of these are referred to by the same name. For example, in Spanish, the word tortuga is used for turtles, tortoises, and terrapins. A sea-dwelling turtle is tortuga marina, a freshwater species tortuga de río, and a tortoise tortuga terrestre.[16]</p>
+            
+          </li>
+        </ul>
+      </section>
+      
+      <section id="gallery">
+        <ul>
+          <li>
+            
+              <img src="img/portfolio-3.jpg" alt="">
+              <p>Turtles are reptiles of the order Testudines (or Chelonii[3]) characterised by a special bony or cartilaginous shell developed from their ribs and acting as a shield.[4] "Turtle" may refer to the order as a whole (American English) or to fresh-water and sea-dwelling testudines (British English).</p>
+            
+          </li>
+          <li class="line">
+            
+              <img src="img/portfolio-6.jpg" alt="">
+              <p>The order Testudines includes both extant (living) and extinct species. The earliest known members of this group date from 157 million years ago,[1] making turtles one of the oldest reptile groups and a more ancient group than snakes or crocodilians. Of the 327 known species alive today, some are highly endangered.</p>
+            
+          </li>
+          <li class="line">
+            
+              <img src="img/portfolio-7.jpg" alt="">
+              <p>Turtles are ectotherms—their internal temperature varies according to the ambient environment, commonly called cold-blooded. However, because of their high metabolic rate, leatherback sea turtles have a body temperature that is noticeably higher than that of the surrounding water.</p>
+            
+          </li>
+        </ul>
+      </section>
+    </div>
+    <div>
+      <footer class="line">
+        <a href="http://facebook.com/adrianminotti"><img src="img/facebook.jpg" alt="Facebook Logo" class="social-icon"></a>
+        <a href="http://pinterest.com/adrianminotti"><img src="img/pinterest.jpg" alt="Pinterest Logo" class="social-icon"></a>
+        <a href="http://twitter.com/adrianminotti"><img src="img/twitter.jpg" alt="Twitter Logo" class="social-icon"></a>
+       <a href="http://instagram.com/adrianminotti"><img src="img/instagram.jpg" alt="Instagram Logo" class="social-icon"></a>
+       <p>&copy; 2015 Adrian Minotti.</p>
+      </footer>
+    </div>
+  </body>
+</html>
